@@ -1,7 +1,5 @@
-### Hi there 👋
-
 [![MasterHead](https://github.com/MartinFustes/MartinFustes/blob/main/header.png?raw=true)](https://github.com/MartinFustes/MartinFustes.git)
-
+### Hi there 👋
 <!--
 **MartinFustes/MartinFustes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
